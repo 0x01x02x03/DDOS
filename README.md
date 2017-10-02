@@ -1,4 +1,4 @@
-Most super powerfool ddos tool.
+Most super powerful ddos tool.
 
 Type attack:
 1)  UDP-ddos
