@@ -1,4 +1,4 @@
-Most powerfool ddos tool
+Most super powerfool ddos tool.
 
 Type attack:
 1)  UDP-ddos
@@ -10,8 +10,8 @@ Type attack:
 7)  LDAP-amp
 8)  Slowloris
 9)  HTTP-TOR
- 10) TCP-TOR
- 11) R.U.D.Y.
+10) TCP-TOR
+11) R.U.D.Y.
 
 Tools:
 1)Mailbomber
